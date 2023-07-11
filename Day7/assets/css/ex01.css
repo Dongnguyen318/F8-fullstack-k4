@@ -14,7 +14,7 @@ html {
 }
 
 body {
-    font-size: 1.6rem;
+    font-size: 16px;
 }
 
 .banner {
@@ -49,7 +49,7 @@ body {
 
 .banner-text__address {
     margin-top: 15px;
-    font-size: 1.8rem;
+    font-size: 20px;
     color: #3f3424;
 }
 
