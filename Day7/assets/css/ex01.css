@@ -6,7 +6,11 @@
     box-sizing: border-box;
 }
 @font-face{
+<<<<<<< HEAD
     font-family: "SFU";
+=======
+    font-family: SFU;
+>>>>>>> 9405fe77478c1906f6bdcd854048ab473bad780a
     src: url(../font/SFUTradeGothicBoldCondensedTwenty.TTF);}
 body {
     font-size: 16px;
@@ -68,5 +72,11 @@ body {
     color: red;
     border-radius: 4px;
     font-size: 20px;
+<<<<<<< HEAD
     font-family: "SFU";
 }
+=======
+    font-family: SFU;
+
+}
+>>>>>>> 9405fe77478c1906f6bdcd854048ab473bad780a
