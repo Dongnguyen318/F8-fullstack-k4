@@ -6,8 +6,8 @@
     box-sizing: border-box;
 }
 @font-face{
-    font-family: SFU;
-    src: url(../font/SFUTradeGothicBoldCondensedTwenty.TTF);
+    font-family: "SFU";
+    src: url(../font/SFUTradeGothicBoldCondensedTwenty.TTF);}
 body {
     font-size: 16px;
 }
@@ -57,7 +57,7 @@ body {
     color: #fff;
     border-radius: 4px;
     font-size: 20px;
-    font-family: SFU;
+    font-family: "SFU";
 }
 .banner-price:hover{
     position: absolute;
@@ -68,6 +68,5 @@ body {
     color: red;
     border-radius: 4px;
     font-size: 20px;
-    font-family: SFU;
-
+    font-family: "SFU";
 }
